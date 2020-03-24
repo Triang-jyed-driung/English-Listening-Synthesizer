@@ -8,3 +8,5 @@ If your listening material is used for Gaokao, don't modify 格式.txt.
 Just open the "developer" file folder and open listening.sln by VS2019.
 # Warning:
 Don't delete lame.exe. It is used to convert wav files into mp3 files.
+This program must be run under Windows 8.1 or later versions.
+Please make sure that TTS narrators Microsoft Huihui, Zira and David are properly installed.
